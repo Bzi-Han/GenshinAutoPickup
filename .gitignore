@@ -1,0 +1,12 @@
+# CMake
+build
+
+# VSCode
+c_cpp_properties.json
+settings.json
+
+# Data
+sample
+
+# OpenCV
+opencv_world470d.dll
